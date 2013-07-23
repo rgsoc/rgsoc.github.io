@@ -4,7 +4,7 @@
   <title><![CDATA[Team Unicorn]]></title>
   <link href="http://rgsoc.github.io/atom.xml" rel="self"/>
   <link href="http://rgsoc.github.io/"/>
-  <updated>2013-07-23T17:12:04+02:00</updated>
+  <updated>2013-07-23T17:15:37+02:00</updated>
   <id>http://rgsoc.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More active]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/23/more-active/"/>
+    <updated>2013-07-23T15:10:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/23/more-active</id>
+    <content type="html"><![CDATA[<p>Today we were planning on how to actually make our blog Team Unicorn more active, how to structure the posts and push our new layout (thanks to Hester!). On Friday Victoria will finally learn how to post on the blog!</p>
+
+<p>We also had our first planning about Spree project (yay!) It will be very changelling but a lot of fun!!
+Soon we will make our baby steps into the project :)</p>
+
+<p>More news coming soon, stay tuned!
+Hester &amp; Victoria</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Update!]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/23/update/"/>
+    <updated>2013-07-23T15:05:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/23/update</id>
+    <content type="html"><![CDATA[<p>It had been a long time since our last post, but summer holidays and a lot of work was in the middle… Let’s start from the beginning, shall we?</p>
+
+<p>Hester and I had been pretty busy, still dealing with Zombies, we enrolled at Code School and our goal is to pass all Ruby courses before that our brains are eaten by those zombies!
+Our coach, Peter, was on holidays, so we were planning to work hard during his absence, but not always what you plan is what actually happens. I got a new job that keeps me busier than I expected and Hester was working hard and afterwards she left on holidays (very well deserved!)</p>
+
+<p>In the meantime, we continue slowly but steady with our tutorials, I was reading books about Ruby on Rails and trying small exercises.
+Our big day was when we went to the Ruby 101 course in Amsterdam, thanks to Amsterdam-rb. It was a very fun day where I finally met Hester in person and together with 5 other people we spent the whole day coding and learning new stuff.
+This course helped us to put in order most of the knowledge that we had and also gave us a boost of motivation to continue.</p>
+
+<p>Next big milestone was Monday 22nd when everyone is back to work and we had our interview with Spree project!</p>
+
+<p>Victoria and Hester</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[2 days in 1]]></title>
