@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "More active"
+title: More active
 date: 2013-07-23 15:10
 comments: true
 categories: 
-author:Victoria and Hester
+author: Victoria and Hester
 ---
 
 Today we were planning on how to actually make our blog Team Unicorn more active, how to structure the posts and push our new layout (thanks to Hester!). On Friday Victoria will finally learn how to post on the blog!

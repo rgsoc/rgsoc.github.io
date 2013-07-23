@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Update!"
+title: Update!
 date: 2013-07-23 15:05
 comments: true
 categories: 
-author:Victoria and Hester
+author: Victoria and Hester
 ---
 
 It had been a long time since our last post, but summer holidays and a lot of work was in the middle… Let’s start from the beginning, shall we? 
