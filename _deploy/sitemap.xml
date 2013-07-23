@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://rgsoc.github.io/blog/2013/07/01/first-day-of-rails-girls-summer-of-code/</loc>
+        <lastmod>2013-07-23T15:36:10+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rgsoc.github.io/blog/2013/07/03/first-test/</loc>
+        <lastmod>2013-07-23T15:36:10+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rgsoc.github.io/blog/2013/07/04/two-days-in-one/</loc>
+        <lastmod>2013-07-23T15:36:10+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rgsoc.github.io/blog/archives/</loc>
+        <lastmod>2013-07-23T15:36:10+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rgsoc.github.io/</loc>
+        <lastmod>2013-07-23T15:36:10+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rgsoc.github.io/robots.txt</loc>
+        <lastmod>2013-07-23T15:36:10+02:00</lastmod>
+    </url>
+</urlset>

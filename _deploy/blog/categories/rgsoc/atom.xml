@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rgsoc | Team Unicorn]]></title>
+  <link href="http://rgsoc.github.io/blog/categories/rgsoc/atom.xml" rel="self"/>
+  <link href="http://rgsoc.github.io/"/>
+  <updated>2013-07-23T15:45:15+02:00</updated>
+  <id>http://rgsoc.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first test!]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/03/first-test/"/>
+    <updated>2013-07-03T16:52:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/03/first-test</id>
+    <content type="html"><![CDATA[<p>Hello!</p>
+
+<p>Second day of coding today, it&rsquo;s getting a bit harder&hellip; We finished the rails for zombies tutorial and started on the rails for zombies 2.</p>
+]]></content>
+  </entry>
+  
+</feed>
