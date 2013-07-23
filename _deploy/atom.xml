@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Team Unicorn]]></title>
+  <link href="http://rgsoc.github.io/atom.xml" rel="self"/>
+  <link href="http://rgsoc.github.io/"/>
+  <updated>2013-07-23T15:04:23+02:00</updated>
+  <id>http://rgsoc.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2 days in 1]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/04/two-days-in-one/"/>
+    <updated>2013-07-04T09:41:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/04/two-days-in-one</id>
+    <content type="html"><![CDATA[<p>We didn&rsquo;t post during the last 2 days so here you have our reason and also what we had been doing&hellip;</p>
+
+<p>On Tuesday, Victoria went to The Hague with Floor Drees to see where the Rails Girls The Hague will take place. It is a great place! and the event will rock in September!
+Hester was working hard to have spare time on Wednesday to continue coding.</p>
+
+<p>On Wednesday, we continued coding (from 10am to 5pm), subscribed to Code School to do all courses. Yes, we love those zombies after all! What we learn is that Ruby on Rails can be very funny if you have the chance to code with a friend and that time flies when you do it!</p>
+
+<p>Today more coding and more lessons will come, what will we learn? Still a mystery&hellip; stay tuned!</p>
+
+<p>Oh! also Rails Girls Groningen and Rails Girls Eindhoven events are on the table for the next months! :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[first test!]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/03/first-test/"/>
+    <updated>2013-07-03T16:52:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/03/first-test</id>
+    <content type="html"><![CDATA[<p>Hello!</p>
+
+<p>Second day of coding today, it&rsquo;s getting a bit harder&hellip; We finished the rails for zombies tutorial and started on the rails for zombies 2.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First day of Rails Girls Summer of Code.]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/01/first-day-of-rails-girls-summer-of-code/"/>
+    <updated>2013-07-01T21:14:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/01/first-day-of-rails-girls-summer-of-code</id>
+    <content type="html"><![CDATA[<p>Still with a low level of coffee in our systems, we started our Google hangout at 11:30am. At the beginning we didn’t know where to start or what to do, so we started with the Code School tutorial, Rails for Zombies. It was a lot of fun and learning!</p>
+
+<p>We also took the picture for the newsletter of Rails Girls Summer of Code, and we aren’t sure yet what was more difficult if the coding or take a picture that we both like!</p>
+
+<p>Our first day was a lot of fun, sharing, coding and a perfect start for the rest of the summer.</p>
+]]></content>
+  </entry>
+  
+</feed>
