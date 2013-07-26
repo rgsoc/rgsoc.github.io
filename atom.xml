@@ -4,7 +4,7 @@
   <title><![CDATA[Team Unicorn]]></title>
   <link href="http://rgsoc.github.io/atom.xml" rel="self"/>
   <link href="http://rgsoc.github.io/"/>
-  <updated>2013-07-23T17:18:49+02:00</updated>
+  <updated>2013-07-26T11:08:47+02:00</updated>
   <id>http://rgsoc.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The mistery of Octopress]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/26/the-mistery-of-octopress/"/>
+    <updated>2013-07-26T10:24:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/26/the-mistery-of-octopress</id>
+    <content type="html"><![CDATA[<p>Friday, 9 a.m., Eindhoven, the Netherlands</p>
+
+<p>Mission: Learn how to use the blog to post everything!</p>
+
+<p>Status: accomplished! :)</p>
+
+<p>This morning, Peter and I, we had a very simple but important goal: Make me finally understand how Octopress works and how to post. It was suppossed to be easy to do from the beginning. Peter prepared a very nice video explained everything, but things in Windows don&rsquo;t usually work as nice as in a MacBook. (mental note: I need to get a Mac!)</p>
+
+<p>We were using Google Hangout and opening all the files in Github, the ruby command, Sublime text&hellip; It didn&rsquo;t seem to work&hellip; or at least in my brain it didn&rsquo;t have any sense.</p>
+
+<p>Thanks to Peter&rsquo;s eternal patience and his explanations I am finally able to talk about all our developments in RoR and future ones in Spree project myself!</p>
+
+<p>Lessons learnt:</p>
+
+<ol>
+<li>Octopress isn&rsquo;t easy, but isn&rsquo;t impossible either.</li>
+<li>Github for windows is very useful!</li>
+<li>Double coffee is required in the morning.</li>
+</ol>
+
+
+<p>Now, let&rsquo;s start with the tutorials! I need to catch with Hester progress who is nerding a lot and finishing everything before me :)</p>
+
+<p>Have a lovely day,</p>
+
+<p>Victoria</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[my-title]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/07/26/my-title/"/>
+    <updated>2013-07-26T09:38:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/07/26/my-title</id>
+    <content type="html"><![CDATA[<p>This is the proof, that we woke up early to work on this :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More active]]></title>
