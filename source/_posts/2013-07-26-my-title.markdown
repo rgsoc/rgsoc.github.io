@@ -4,4 +4,7 @@ title: "my-title"
 date: 2013-07-26 09:38
 comments: true
 categories: 
+author: Victoria and Peter
 ---
+
+This is the proof, that we woke up early to work on this :)
