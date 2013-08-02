@@ -1,0 +1,11 @@
+---
+layout: post
+title: "bundle exec please work"
+date: 2013-08-02 12:51
+comments: true
+categories: 
+---
+As I stated in the previous post, we were about to get to work... as soon as we got everything working locally. Sometimes we feel like that might be the biggest challenge. Especially for Victoria, as she is working in Windows. But Hester also has her share of trouble :)
+
+We try lots of different things. For instance when we got the comment: "exec needs a command to run" Victoria had the brilliant desperation to try " bundle exec please work" :D Too bad that didn't work.. we wonder why....
+
