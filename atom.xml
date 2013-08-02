@@ -4,7 +4,7 @@
   <title><![CDATA[Team Unicorn]]></title>
   <link href="http://rgsoc.github.io/atom.xml" rel="self"/>
   <link href="http://rgsoc.github.io/"/>
-  <updated>2013-07-26T11:08:47+02:00</updated>
+  <updated>2013-08-02T13:02:26+02:00</updated>
   <id>http://rgsoc.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Friday code day]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/08/02/friday-code-day/"/>
+    <updated>2013-08-02T12:43:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/08/02/friday-code-day</id>
+    <content type="html"><![CDATA[<p>So here we are! We are so very proud of ourselves&hellip; It might be the hottest day of the year today, but here we are meeting up on our day off to do some coding!</p>
+
+<p>Because we don&rsquo;t see each other a lot, the first two hours mainly were just talking. We have a lot of catching up to do. Telling each other about tutorials, project (Rails Girls Groningen &amp; Eindhoven YAY!), conferences we&rsquo;ll be attending and of course our day jobs.</p>
+
+<p>Now we are about to get to work, we are going to review the Spree documentation. As soon as we get everything to work ;)</p>
+
+<p>We&rsquo;ll keep you posted!</p>
+
+<p>Love Victoria and Hester</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The mistery of Octopress]]></title>
