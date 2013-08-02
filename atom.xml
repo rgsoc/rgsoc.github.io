@@ -4,7 +4,7 @@
   <title><![CDATA[Team Unicorn]]></title>
   <link href="http://rgsoc.github.io/atom.xml" rel="self"/>
   <link href="http://rgsoc.github.io/"/>
-  <updated>2013-08-02T13:02:26+02:00</updated>
+  <updated>2013-08-02T17:47:32+02:00</updated>
   <id>http://rgsoc.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[bundle exec please work]]></title>
+    <link href="http://rgsoc.github.io/blog/2013/08/02/please/"/>
+    <updated>2013-08-02T12:51:00+02:00</updated>
+    <id>http://rgsoc.github.io/blog/2013/08/02/please</id>
+    <content type="html"><![CDATA[<p>As I stated in the previous post, we were about to get to work&hellip; as soon as we got everything working locally. Sometimes we feel like that might be the biggest challenge. Especially for Victoria, as she is working in Windows. But Hester also has her share of trouble :)</p>
+
+<p>We try lots of different things. For instance when we got the comment: &ldquo;exec needs a command to run&rdquo; Victoria had the brilliant desperation to try &ldquo; bundle exec please work&rdquo; :D Too bad that didn&rsquo;t work.. we wonder why&hellip;.</p>
+
+<hr />
+
+<p>A few hours later&hellip;
+We are still very desperate :s Following the tutorial of Spree was not easy. Tutorials 1 &ndash; Team Unicorn 0
+Hester had installed a Spree shop before, but that was with coach Peter&rsquo;s magic help.
+We tried to read back what we should do, we religiously try to follow The Word of Peter ;)</p>
+
+<p>If you live in the Netherlands and you don&rsquo;t have enough heat when it&rsquo;s 35 degrees Celcius (which is the temperature here right now), you can now buy some hot air from us.
+<img src="../images/Hot_Air_Spree_Demo_Site.png"></p>
+
+<p>We are now going to get some outside :)</p>
+
+<p>Cheers! Hester &amp; Victoria</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Friday code day]]></title>
