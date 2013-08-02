@@ -9,3 +9,16 @@ As I stated in the previous post, we were about to get to work... as soon as we 
 
 We try lots of different things. For instance when we got the comment: "exec needs a command to run" Victoria had the brilliant desperation to try " bundle exec please work" :D Too bad that didn't work.. we wonder why....
 
+---------------------------------------------
+
+A few hours later... 
+We are still very desperate :s Following the tutorial of Spree was not easy. Tutorials 1 - Team Unicorn 0
+Hester had installed a Spree shop before, but that was with coach Peter's magic help. 
+We tried to read back what we should do, we religiously try to follow The Word of Peter ;)
+
+If you live in the Netherlands and you don't have enough heat when it's 35 degrees Celcius (which is the temperature here right now), you can now buy some hot air from us. 
+<img src="../images/Hot_Air_Spree_Demo_Site.png">
+
+We are now going to get some outside :)
+
+Cheers! Hester & Victoria
