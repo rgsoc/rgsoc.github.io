@@ -17,5 +17,5 @@ Luckily when I got back to our workspace for the day, [Launch Cafe](http://www.l
 
 And of course we had some take a picture for our friday hug (check out my numb and swollen face haha):
 
-<img src="images/fridayhug.JPG" alt="Friday Hug">
+<img src="/images/fridayhug.JPG" alt="Friday Hug">
 
